@@ -46,7 +46,7 @@ Este proyecto utiliza las siguientes tecnologías principales:
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/digitalhouse-content/react-js-ecommerce-dh.git
+git clone https://github.com/ndifabio92/Ecommerce-App-Nintendo.git
 
 # Instala las dependencias
 npm install
