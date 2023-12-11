@@ -1,10 +1,4 @@
-# Ecommerce-DH React.js Template
-
-Este es el ***template base*** para comenzar el proyecto, ya tiene los estilos y dependencias necesarias.
-
-
-
-El objetivo de este proyecto es afianzar los conocimientos del curso React + Redux con TypeScript, específicamente en el contexto de React.js y sus herramientas relacionadas. A lo largo de las clases, se abordan varios módulos, cada uno enfocado en un aspecto clave del desarrollo web con React.
+# Ecommerce React.js Template
 
 ## Demostración
 
